@@ -1,0 +1,6 @@
+{
+  "name": "DecorHub: AI-Based Adaptive Interior Design System",
+  "description": "Adaptive interior design system offering personalized questionnaires, rule-based 2D floor plans, interactive furniture layout editor, catalog, and live INR budget calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
